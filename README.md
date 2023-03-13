@@ -10,8 +10,6 @@
 
  * Online Plant Nursery Management System is a Spring-Boot project Backend based application.
 
- * This is a Group project executed in 5 days with 5 members of team.
-
 # For detailed explanation [Video](https://drive.google.com/file/d/1IpLkUn1LuYpX4cmZ8VADj_5RJy-qj8Iq/view?usp=sharing)
 
 <h1 align = "center"> ER Diagram </h1>
@@ -53,14 +51,6 @@
 * Customer can order and buy any plants, seed and planters <br>
 * Customer can get order details. <br>
 * Customer can logout from application.<br>
-
-
-# Team Member
-* Updesh <br>
-* Saiprasad <br>
-* Pritu <br>
-* ChandraBhan<br>
-* Rakesh <br>
 
 
 <h1 align = "center"> Some functionalities images </h1>
